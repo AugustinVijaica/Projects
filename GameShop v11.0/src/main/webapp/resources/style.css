@@ -1,0 +1,234 @@
+.body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.imgur.com/NHfkSGq.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+.loginBox
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,.5);
+}
+.menuBox
+{
+    position: absolute;
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%);
+    width: 1200px;
+    height: 500px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: rgba(0,0,0,.5);
+}
+.user
+{
+    top: calc(-100px/2);
+    left: calc(50% - 50px);
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.h2
+{
+    margin: 0;
+    padding: 0 0 20px;
+    color: #efed40;
+    text-align: center;
+}
+.h3
+{
+    position: absolute;
+    top:70%;
+    left:40%;
+    color: #efed40;
+}
+.h1
+{
+    color: #efed40;
+    text-align: center;
+}
+.loginBox p
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: #fff;
+}
+.loginBox input
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.loginBox input{type="text"},
+.loginBox input{type="password"}
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+::placeholder
+{
+    color: rgba(255,255,255,.5);
+}
+.loginBox input{type="submit"}
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+    background: #ff267e;
+    cursor: pointer;
+    border-radius: 20px;
+}
+/*.loginBox: input{type="submit"}:hover
+{
+    background: #efed40;
+    color: #262626;
+}*/
+.loginBox a
+{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+.li
+{
+    float: right;
+}
+.li a
+{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.li a:hover
+{
+    background-color: skyblue;
+}
+.active{
+    background-color: red;
+}
+
+.div {
+     word-wrap: break-word;
+}
+
+.bodyDetails
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.imgur.com/VjohWwE.jpg);
+    background-size: cover;
+    font-family: helvetica;
+}
+
+.bodynew
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.imgur.com/Wqhpn2I.jpg);
+    background-size: cover;
+    font-family: helvetica;
+}
+
+.button {
+  background-color: #320842;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 1px;
+  cursor: pointer;
+}
+
+.button:hover {
+    font-size: 15px;
+    color: red;
+}
+
+.rating {
+    display: inline-block;
+}
+
+.rating:not(:checked) > input {
+    display:none;
+}
+
+.rating:not(:checked) > label {
+    float: right;
+    width: 28px;
+    padding: 0 4px;
+    overflow: hidden;
+    white-space: nowrap;
+    cursor: pointer;
+    font-size: 200%;
+    line-height: 1.2;
+    color: #ddd;
+    filter: saturate(0);
+    -webkit-filter: saturate(0);
+    -moz-filter: saturate(0);
+    -o-filter: saturate(0);
+
+}
+
+.rating:not(:checked) > label:before {
+    content: url("http://i.imgur.com/1dT6Fai.png") ' ';
+}
+
+.rating > input:checked ~ label {
+    filter: saturate(1);
+    -webkit-filter: saturate(1);
+	-moz-filter: saturate(1);
+    -o-filter: saturate(1);
+}
+
+.rating:not(:checked) > label:hover,
+.rating:not(:checked) > label:hover ~ label {
+    filter: hue-rotate(-50deg);
+    -webkit-filter: hue-rotate(-50deg);
+	-moz-filter: hue-rotate(-50deg);
+    -o-filter:hue-rotate(-50deg);
+
+}
+
+.rating > input:checked + label:hover,
+.rating > input:checked + label:hover ~ label,
+.rating > input:checked ~ label:hover,
+.rating > input:checked ~ label:hover ~ label,
+.rating > label:hover ~ input:checked ~ label {
+    filter: hue-rotate(-50deg);
+    -webkit-filter: hue-rotate(-50deg);
+	-moz-filter: hue-rotate(-50deg);
+    -o-filter:hue-rotate(-50deg);
+
+}
