@@ -1,0 +1,585 @@
+<Languages>
+    <French>
+        <Table_opera>
+            <Title>Titre</Title>
+            <Artist>Artiste</Artist>
+            <Date>Date</Date>
+            <Genre_Type>Genre/Type</Genre_Type>
+            <Technique>Technique</Technique>
+            <Image>Image</Image>
+        </Table_opera>
+
+        <Table_user>
+            <Name>Nom</Name>
+            <Role>Rôle</Role>
+            <Username>Nom d'utilisateur</Username>
+            <Password>Le mot de passe</Password>
+        </Table_user>
+
+        <Guest>
+            <Title>Visiteur</Title>
+            <Login>
+                <Username>Nom d'utilisateur</Username>
+                <Password>Le mot de passe</Password>
+                <Login_button>Connexion</Login_button>
+                <Empty_field>Insérez un nom d'utilisateur et un mot de passe!</Empty_field>
+                <Not_found>Compte non trouvé dans notre base de données!</Not_found>
+            </Login>
+           
+            <Filter>
+                <Filter_by>Filtrer par</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Artiste</Artist>
+                <Type>Le type</Type>
+                <Filter_button>Filtrer</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titre de recherche</Search_title>
+                <Search_button>Rechercher</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Graphique de</Graph_from>
+                <Opera_type>Type d'opéra</Opera_type>
+                <Institutions>Institutions</Institutions>
+                <Artists>Artistes</Artists>
+                <Pie_chart>Diagramme circulaire</Pie_chart>
+                <Bar_chart>Diagramme à bandes</Bar_chart>
+                <Generate_button>Générer</Generate_button>
+                <Paintings>Tableaux</Paintings>
+                <Sculptures>Sculptures</Sculptures>
+            </Graph>
+        </Guest>
+
+
+
+        <Employee>
+            <Title>Employé</Title>
+	        <Report_Success>Fichier exporté avec succès</Report_Success>
+            <Logout_button>Déconnecter</Logout_button>
+            <Generate_JSON>Générer JSON</Generate_JSON>
+            <Generate_CSV>Générer CSV</Generate_CSV>
+            <Filter>
+                <Filter_by>Filtrer par</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Artiste</Artist>
+                <Type>Le type</Type>
+                <Filter_button>Filtrer</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titre de recherche</Search_title>
+                <Search_button>Rechercher</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Graphique de</Graph_from>
+                <Opera_type>Type d'opera</Opera_type>
+                <Institutions>Institutions</Institutions>
+                <Artists>Artistes</Artists>
+                <Pie_chart>Diagramme circulaire</Pie_chart>
+                <Bar_chart>Diagramme à bandes</Bar_chart>
+                <Generate_button>Générer</Generate_button>
+                <Paintings>Tableaux</Paintings>
+                <Sculptures>Sculptures</Sculptures>
+            </Graph>
+
+            <Add_edit>
+                <Add_edit_header>Ajouter/Éditer opéra</Add_edit_header>
+                <Type>Le type</Type>
+                <Institution>Institution</Institution>
+                <Title>Titre</Title>
+                <Artist>Artiste</Artist>
+                <Date>Date</Date>
+                <Genre>Genre</Genre>
+                <Type_sculpture>Type</Type_sculpture>
+                <Technique>Technique</Technique>
+                <Image>Image</Image>
+                <Add_edit_button>Ajouter/Éditer opéra</Add_edit_button>
+                <Wrong_institution>L'opéra existe déjà mais n'appartient pas à cette institution!</Wrong_institution>
+ 		        <Painting>Tableau</Painting>
+                <Sculpture>Sculpture</Sculpture>
+            </Add_edit>
+
+            <Delete>
+                <Delete_header>Supprimer l'opéra</Delete_header>
+                <Delete_title>Titre</Delete_title>
+                <Delete_button>Supprimer l'opéra</Delete_button>
+                <Not_found>Opéra non trouvé dans notre base de données!</Not_found>
+            </Delete>
+        </Employee>
+
+        <Admin>
+            <Title>Administrateur</Title>
+            <Logout_button>Déconnecter</Logout_button>
+            <Filter>
+                <Role>Rôle</Role>
+                <Role_Employee>Employé</Role_Employee>
+                <Role_Admin>Administrateur</Role_Admin>
+                <Show_users_button>Montrer aux utilisateurs</Show_users_button>
+            </Filter>
+
+            <Search>
+                <Search_header>Recherche de compte</Search_header>
+                <Username>Nom d'utilisateur</Username>
+                <Search_button>Rechercher</Search_button>
+            </Search>
+
+            <Add_edit_user>
+                <Add_edit_user_header>Ajouter/Éditer utilisateur</Add_edit_user_header>
+                <Name>Nom</Name>
+                <Username>Nom d'utilisateur</Username>
+                <Password>Le mot de passe</Password>
+                <Role>Rôle</Role>
+                <Role_Employee>Employé</Role_Employee>
+                <Role_Admin>Administrateur</Role_Admin>
+                <Add_edit_user_button>Ajouter/Éditer utilisateur</Add_edit_user_button>
+            </Add_edit_user>
+
+            <Delete_user>
+                <Delete_user_header>Supprimer l'utilisateur</Delete_user_header>
+                <Username>Nom d'utilisateur</Username>
+                <Delete_user_button>Supprimer l'utilisateur</Delete_user_button>
+            </Delete_user>
+        </Admin>
+    </French>
+
+    <English>
+        <Table_opera>
+            <Title>Title</Title>
+            <Artist>Artist</Artist>
+            <Date>Date</Date>
+            <Genre_Type>Genre/Type</Genre_Type>
+            <Technique>Technique</Technique>
+            <Image>Image</Image>
+        </Table_opera>
+
+        <Table_user>
+            <Name>Name</Name>
+            <Role>Role</Role>
+            <Username>Username</Username>
+            <Password>Password</Password>
+        </Table_user>
+
+        <Guest>
+            <Title>Guest</Title>
+            <Login>
+                <Username>Username</Username>
+                <Password>Password</Password>
+                <Login_button>Login</Login_button>
+                <Empty_field>Insert an username and a password!</Empty_field>
+                <Not_found>Account not found in our database!</Not_found>
+            </Login>
+           
+            <Filter>
+                <Filter_by>Filter by</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Artist</Artist>
+                <Type>Type</Type>
+                <Filter_button>Filter</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Search title</Search_title>
+                <Search_button>Search</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Graph from</Graph_from>
+                <Opera_type>Opera type</Opera_type>
+                <Institutions>Institutions</Institutions>
+                <Artists>Artists</Artists>
+                <Pie_chart>Pie chart</Pie_chart>
+                <Bar_chart>Bar chart</Bar_chart>
+                <Generate_button>Generate</Generate_button>
+                <Paintings>Paintings</Paintings>
+                <Sculptures>Sculptures</Sculptures>
+            </Graph>
+        </Guest>
+
+
+
+        <Employee>
+            <Title>Employee</Title>
+	        <Report_Success>File exported successfully</Report_Success>
+            <Logout_button>Logout</Logout_button>
+            <Generate_JSON>Generate JSON</Generate_JSON>
+            <Generate_CSV>Generate CSV</Generate_CSV>
+            <Filter>
+                <Filter_by>Filter by</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Artist</Artist>
+                <Type>Type</Type>
+                <Filter_button>Filter</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Search title</Search_title>
+                <Search_button>Search</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Graph from</Graph_from>
+                <Opera_type>Opera type</Opera_type>
+                <Institutions>Institutions</Institutions>
+                <Artists>Artists</Artists>
+                <Pie_chart>Pie chart</Pie_chart>
+                <Bar_chart>Bar chart</Bar_chart>
+                <Generate_button>Generate</Generate_button>
+                <Paintings>Paintings</Paintings>
+                <Sculptures>Sculptures</Sculptures>
+            </Graph>
+
+            <Add_edit>
+                <Add_edit_header>Add/Edit opera</Add_edit_header>
+                <Type>Type</Type>
+                <Institution>Institution</Institution>
+                <Title>Title</Title>
+                <Artist>Artist</Artist>
+                <Date>Date</Date>
+                <Genre>Genre</Genre>
+                <Type_sculpture>Type</Type_sculpture>
+                <Technique>Technique</Technique>
+                <Image>Image</Image>
+                <Add_edit_button>Add/Edit opera</Add_edit_button>
+                <Wrong_institution>Opera already exists but it does not belong to this institution!</Wrong_institution>
+		        <Painting>Painting</Painting>
+                <Sculpture>Sculpture</Sculpture>
+            </Add_edit>
+
+            <Delete>
+                <Delete_header>Delete opera</Delete_header>
+                <Delete_title>Title</Delete_title>
+                <Delete_button>Delete opera</Delete_button>
+                <Not_found>Opera not found in our database!</Not_found>
+            </Delete>
+        </Employee>
+
+        <Admin>
+            <Title>Admin</Title>
+            <Logout_button>Logout</Logout_button>
+            <Filter>
+                <Role>Role</Role>
+                <Role_Employee>Employee</Role_Employee>
+                <Role_Admin>Admin</Role_Admin>
+                <Show_users_button>Show users</Show_users_button>
+            </Filter>
+
+            <Search>
+                <Search_header>Search account</Search_header>
+                <Username>Username</Username>
+                <Search_button>Search</Search_button>
+            </Search>
+
+            <Add_edit_user>
+                <Add_edit_user_header>Add/Edit user</Add_edit_user_header>
+                <Name>Name</Name>
+                <Username>Username</Username>
+                <Password>Password</Password>
+                <Role>Role</Role>
+                <Role_Employee>Employee</Role_Employee>
+                <Role_Admin>Admin</Role_Admin>
+                <Add_edit_user_button>Add/Edit user</Add_edit_user_button>
+            </Add_edit_user>
+
+            <Delete_user>
+                <Delete_user_header>Delete user</Delete_user_header>
+                <Username>Username</Username>
+                <Delete_user_button>Delete user</Delete_user_button>
+            </Delete_user>
+        </Admin>
+    </English>
+
+    <Romanian>
+        <Table_opera>
+            <Title>Titlu</Title>
+            <Artist>Artist</Artist>
+            <Date>Dată</Date>
+            <Genre_Type>Gen/Tip</Genre_Type>
+            <Technique>Tehnică</Technique>
+            <Image>Imagine</Image>
+        </Table_opera>
+
+        <Table_user>
+            <Name>Nume</Name>
+            <Role>Rol</Role>
+            <Username>Nume de utilizator</Username>
+            <Password>Parolă</Password>
+        </Table_user>
+
+        <Guest>
+            <Title>Vizitator</Title>
+            <Login>
+                <Username>Nume de utilizator</Username>
+                <Password>Parolă</Password>
+                <Login_button>Conectare</Login_button>
+                <Empty_field>Introduceți un nume de utilizator și o parolă!</Empty_field>
+                <Not_found>Utilizatorul nu a fost găsit în baza noastră de date!</Not_found>
+            </Login>
+           
+            <Filter>
+                <Filter_by>Filtrare după</Filter_by>
+                <Institution>Instituție</Institution>
+                <Artist>Artist</Artist>
+                <Type>Tip</Type>
+                <Filter_button>Filtrare</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titlu de căutat</Search_title>
+                <Search_button>Căutare</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Grafic după</Graph_from>
+                <Opera_type>Tip opere</Opera_type>
+                <Institutions>Instituții</Institutions>
+                <Artists>Artiști</Artists>
+                <Pie_chart>Pie chart</Pie_chart>
+                <Bar_chart>Bar chart</Bar_chart>
+                <Generate_button>Generare</Generate_button>
+                <Paintings>Tablouri</Paintings>
+                <Sculptures>Sculpturi</Sculptures>
+            </Graph>
+        </Guest>
+
+
+
+        <Employee>
+            <Title>Angajat</Title>
+	        <Report_Success>Fișier exportat cu succes</Report_Success>
+            <Logout_button>Deconectare</Logout_button>
+            <Generate_JSON>Generare JSON</Generate_JSON>
+            <Generate_CSV>Generare CSV</Generate_CSV>
+            <Filter>
+                <Filter_by>Filtrare după</Filter_by>
+                <Institution>Instituție</Institution>
+                <Artist>Artist</Artist>
+                <Type>Tip</Type>
+                <Filter_button>Filtrare</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titlu de căutat</Search_title>
+                <Search_button>Căutare</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Grafic după</Graph_from>
+                <Opera_type>Tip opere</Opera_type>
+                <Institutions>Instituții</Institutions>
+                <Artists>Artiști</Artists>
+                <Pie_chart>Pie chart</Pie_chart>
+                <Bar_chart>Bar chart</Bar_chart>
+                <Generate_button>Generare</Generate_button>
+                <Paintings>Tablouri</Paintings>
+                <Sculptures>Sculpturi</Sculptures>
+            </Graph>
+
+            <Add_edit>
+                <Add_edit_header>Adăugare/Editare operă</Add_edit_header>
+                <Type>Tip</Type>
+                <Institution>Instituție</Institution>
+                <Title>Titlu</Title>
+                <Artist>Artist</Artist>
+                <Date>Dată</Date>
+                <Genre>Gen</Genre>
+                <Type_sculpture>Tip</Type_sculpture>
+                <Technique>Tehnică</Technique>
+                <Image>Imagine</Image>
+                <Add_edit_button>Adăugare/Editare operă</Add_edit_button>
+                <Wrong_institution>Opera există deja în baza de date, dar nu aparține de această instituție!</Wrong_institution>
+		        <Painting>Tablou</Painting>
+                <Sculpture>Sculptură</Sculpture>
+            </Add_edit>
+
+            <Delete>
+                <Delete_header>Ștergere operă</Delete_header>
+                <Delete_title>Titlu</Delete_title>
+                <Delete_button>Ștergere operă</Delete_button>
+                <Not_found>Opera nu a fost găsită în baza noastră de date!</Not_found>
+            </Delete>
+        </Employee>
+
+        <Admin>
+            <Title>Admin</Title>
+            <Logout_button>Deconectare</Logout_button>
+            <Filter>
+                <Role>Rol</Role>
+                <Role_Employee>Angajat</Role_Employee>
+                <Role_Admin>Admin</Role_Admin>
+                <Show_users_button>Afișare utilizatori</Show_users_button>
+            </Filter>
+
+            <Search>
+                <Search_header>Căutare cont</Search_header>
+                <Username>Nume de utilizator</Username>
+                <Search_button>Căutare</Search_button>
+            </Search>
+
+            <Add_edit_user>
+                <Add_edit_user_header>Adăugare/Editare utilizator</Add_edit_user_header>
+                <Name>Nume</Name>
+                <Username>Nume de utilizator</Username>
+                <Password>Parolă</Password>
+                <Role>Rol</Role>
+                <Role_Employee>Angajat</Role_Employee>
+                <Role_Admin>Admin</Role_Admin>
+                <Add_edit_user_button>Adăugare/Editare utilizator</Add_edit_user_button>
+            </Add_edit_user>
+
+            <Delete_user>
+                <Delete_user_header>Ștergere utilizator</Delete_user_header>
+                <Username>Nume de utilizator</Username>
+                <Delete_user_button>Ștergere utilizator</Delete_user_button>
+            </Delete_user>
+        </Admin>
+    </Romanian>
+    <German>
+        <Table_opera>
+            <Title>Titel</Title>
+            <Artist>Künstler</Artist>
+            <Date>Datum</Date>
+            <Genre_Type>Genre/Typ</Genre_Type>
+            <Technique>Technik</Technique>
+            <Image>Bild</Image>
+        </Table_opera>
+
+        <Table_user>
+            <Name>Name</Name>
+            <Role>Rolle</Role>
+            <Username>Nutzername</Username>
+            <Password>Passwort</Password>
+        </Table_user>
+
+        <Guest>
+            <Title>Gastr</Title>
+            <Login>
+                <Username>Nutzername</Username>
+                <Password>Passwort</Password>
+                <Login_button>Anmeldung</Login_button>
+                <Empty_field>Geben Sie einen Benutzernamen und ein Passwort ein!</Empty_field>
+                <Not_found>Konto nicht in unserer Datenbank gefunden!</Not_found>
+            </Login>
+           
+            <Filter>
+                <Filter_by>Filtern nach</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Künstler</Artist>
+                <Type>Typ</Type>
+                <Filter_button>Filtern</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titel suchen</Search_title>
+                <Search_button>Suche</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Grafik von</Graph_from>
+                <Opera_type>Opernart</Opera_type>
+                <Institutions>Institutionen</Institutions>
+                <Artists>Künstler</Artists>
+                <Pie_chart>Kuchendiagramm</Pie_chart>
+                <Bar_chart>Balkendiagramm</Bar_chart>
+                <Generate_button>Generieren</Generate_button>
+                <Paintings>Gemälde</Paintings>
+                <Sculptures>Skulpturen</Sculptures>
+            </Graph>
+        </Guest>
+
+
+
+        <Employee>
+            <Title>Mitarbeiter</Title>
+	        <Report_Success>Datei erfolgreich exportiert</Report_Success>
+            <Logout_button>Ausloggen</Logout_button>
+            <Generate_JSON>JSON Generieren</Generate_JSON>
+            <Generate_CSV>CSV Generieren</Generate_CSV>
+            
+            <Filter>
+                <Filter_by>Filtern nach</Filter_by>
+                <Institution>Institution</Institution>
+                <Artist>Künstler</Artist>
+                <Type>Typ</Type>
+                <Filter_button>Filtern</Filter_button>
+            </Filter>
+
+            <Search>
+                <Search_title>Titel suchen</Search_title>
+                <Search_button>Suche</Search_button>
+            </Search>
+
+            <Graph>
+                <Graph_from>Grafik von</Graph_from>
+                <Opera_type>Opernart</Opera_type>
+                <Institutions>Institutionen</Institutions>
+                <Artists>Künstler</Artists>
+                <Pie_chart>Kuchendiagramm</Pie_chart>
+                <Bar_chart>Balkendiagramm</Bar_chart>
+                <Generate_button>Generieren</Generate_button>
+                <Paintings>Gemälde</Paintings>
+                <Sculptures>Skulpturen</Sculptures>
+            </Graph>
+
+            <Add_edit>
+                <Add_edit_header>Oper hinzufügen/bearbeiten</Add_edit_header>
+                <Type>Typ</Type>
+                <Institution>Institution</Institution>
+                <Title>Titel</Title>
+                <Artist>Künstler</Artist>
+                <Date>Datum</Date>
+                <Genre_Type>Genre</Genre_Type>
+                <Technique>Technik</Technique>
+                <Image>Bild</Image>
+                <Type_sculpture>Typ</Type_sculpture>
+                <Add_edit_button>Oper hinzufügen/bearbeiten</Add_edit_button>
+                <Wrong_institution>Opera existiert bereits, gehört aber nicht zu dieser Institution!</Wrong_institution>
+		        <Painting>Gemälde</Painting>
+                <Sculpture>Skulptur</Sculpture>
+            </Add_edit>
+
+            <Delete>
+                <Delete_header>Oper löschen</Delete_header>
+                <Delete_title>Titel</Delete_title>
+                <Delete_button>Oper löschen</Delete_button>
+                <Not_found>Oper nicht in unserer Datenbank gefunden!</Not_found>
+            </Delete>
+        </Employee>
+
+        <Admin>
+            <Title>Administrator</Title>
+            <Logout_button>Ausloggen</Logout_button>
+            <Filter>
+                <Role>Rolle</Role>
+                <Role_Employee>Mitarbeiter</Role_Employee>
+                <Role_Admin>Administrator</Role_Admin>
+                <Show_users_button>Benutzer anzeigen</Show_users_button>
+            </Filter>
+
+            <Search>
+                <Search_header>Kontosuche</Search_header>
+                <Username>Nutzername</Username>
+                <Search_button>CSuche</Search_button>
+            </Search>
+
+            <Add_edit_user>
+                <Add_edit_user_header>Benutzer hinzufügen/bearbeiten</Add_edit_user_header>
+                <Name>Name</Name>
+                <Username>Nutzername</Username>
+                <Password>Passwort</Password>
+                <Role>Rolle</Role>
+                <Role_Employee>Mitarbeiter</Role_Employee>
+                <Role_Admin>Administrator</Role_Admin>
+                <Add_edit_user_button>Benutzer hinzufügen/bearbeiten</Add_edit_user_button>
+            </Add_edit_user>
+
+            <Delete_user>
+                <Delete_user_header>Benutzer löschen</Delete_user_header>
+                <Username>Nutzername</Username>
+                <Delete_user_button>Benutzer löschen</Delete_user_button>
+            </Delete_user>
+        </Admin>
+    </German>
+</Languages>

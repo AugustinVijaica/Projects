@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Server: server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ArtGalleryServer/ArtGalleryMVCObserver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ArtGalleryServer/ArtGalleryMVCObserver.jar!/" />
+    </SOURCES>
+  </library>
+</component>

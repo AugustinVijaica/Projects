@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="View.GUIAdmin">
+  <grid id="27dc6" binding="Menu" layout-manager="FormLayout">
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:5dlu:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:19px:noGrow"/>
+    <rowspec value="center:14px:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:17dlu:noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:5dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:max(d;4px):noGrow"/>
+    <rowspec value="top:4dlu:noGrow"/>
+    <rowspec value="center:32px:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:80px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:31dlu:noGrow"/>
+    <colspec value="fill:82px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:10dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:72px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:30dlu:noGrow"/>
+    <colspec value="fill:30px:noGrow"/>
+    <colspec value="left:35dlu:noGrow"/>
+    <colspec value="left:16dlu:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="fill:175px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:143px:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:141px:noGrow"/>
+    <colspec value="left:123dlu:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="left:4dlu:noGrow"/>
+    <colspec value="fill:max(d;4px):noGrow"/>
+    <colspec value="fill:104px:grow"/>
+    <constraints>
+      <xy x="20" y="-2" width="1938" height="1310"/>
+    </constraints>
+    <properties>
+      <background color="-14063739"/>
+      <enabled value="false"/>
+      <font/>
+      <opaque value="true"/>
+      <preferredSize width="1500" height="600"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <vspacer id="ae571">
+        <constraints>
+          <grid row="26" column="0" row-span="4" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-vert="false"/>
+        </constraints>
+      </vspacer>
+      <scrollpane id="6bc00">
+        <constraints>
+          <grid row="30" column="2" row-span="24" col-span="38" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false" defaultalign-vert="false"/>
+        </constraints>
+        <properties>
+          <autoscrolls value="true"/>
+          <font name="Times New Roman" size="48" style="0"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="99bb5" class="javax.swing.JTable" binding="Resultat">
+            <constraints/>
+            <properties>
+              <autoCreateRowSorter value="false"/>
+              <autoResizeMode value="1"/>
+              <autoscrolls value="true"/>
+              <background color="-1250068"/>
+              <enabled value="true"/>
+              <minimumSize width="30" height="20"/>
+              <preferredScrollableViewportSize width="450" height="150"/>
+              <preferredSize width="150" height="80"/>
+              <requestFocusEnabled value="true"/>
+              <selectionForeground color="-14063739"/>
+              <showVerticalLines value="true"/>
+            </properties>
+            <clientProperties>
+              <Table.isFileList class="java.lang.Boolean" value="false"/>
+              <terminateEditOnFocusLost class="java.lang.Boolean" value="false"/>
+            </clientProperties>
+          </component>
+        </children>
+      </scrollpane>
+      <vspacer id="efd60">
+        <constraints>
+          <grid row="0" column="42" row-span="30" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-vert="false"/>
+        </constraints>
+      </vspacer>
+      <component id="e5643" class="javax.swing.JLabel" binding="stergereLabel">
+        <constraints>
+          <grid row="60" column="34" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Stergere Angajat"/>
+        </properties>
+      </component>
+      <component id="d0cf8" class="javax.swing.JTextField" binding="stergereUsernameField">
+        <constraints>
+          <grid row="62" column="34" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="33e0f" class="javax.swing.JLabel" binding="stergereUsernameLabel">
+        <constraints>
+          <grid row="62" column="32" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Username"/>
+        </properties>
+      </component>
+      <component id="79f60" class="javax.swing.JButton" binding="showUsers">
+        <constraints>
+          <grid row="3" column="8" row-span="1" col-span="13" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-13062702"/>
+          <foreground color="-1250068"/>
+          <text value="Afisare Utilizatori"/>
+        </properties>
+      </component>
+      <hspacer id="76345">
+        <constraints>
+          <grid row="28" column="36" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+      </hspacer>
+      <component id="bfe49" class="javax.swing.JRadioButton" binding="rolRadioButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="22" row-span="1" col-span="6" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-14063739"/>
+          <foreground color="-1250068"/>
+          <text value="Rol"/>
+        </properties>
+      </component>
+      <component id="bb51f" class="javax.swing.JComboBox" binding="rolComboBox">
+        <constraints>
+          <grid row="3" column="29" row-span="1" col-span="4" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Admin"/>
+            <item value="Angajat"/>
+          </model>
+        </properties>
+      </component>
+      <component id="d78bf" class="javax.swing.JButton" binding="deleteButton">
+        <constraints>
+          <grid row="62" column="36" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-13062702"/>
+          <foreground color="-1250068"/>
+          <text value="Delete User"/>
+        </properties>
+      </component>
+      <component id="a440a" class="javax.swing.JButton" binding="logoutButton">
+        <constraints>
+          <grid row="68" column="36" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <background color="-13062702"/>
+          <foreground color="-1250068"/>
+          <text value="Logout"/>
+        </properties>
+      </component>
+      <component id="8d3f2" class="javax.swing.JTextField" binding="usernameSearchField">
+        <constraints>
+          <grid row="10" column="8" row-span="3" col-span="13" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="21f08" class="javax.swing.JButton" binding="searchButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="27" row-span="3" col-span="6" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-13062702"/>
+          <foreground color="-1250068"/>
+          <text value="Search"/>
+        </properties>
+      </component>
+      <component id="96a9e" class="javax.swing.JLabel" binding="usernameSearchLabel">
+        <constraints>
+          <grid row="10" column="2" row-span="2" col-span="6" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Username"/>
+        </properties>
+      </component>
+      <component id="1bda1" class="javax.swing.JLabel" binding="addEmployee">
+        <constraints>
+          <grid row="3" column="38" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Adaugare/Editare Angajat"/>
+        </properties>
+      </component>
+      <component id="66ec0" class="javax.swing.JTextField" binding="numeField">
+        <constraints>
+          <grid row="6" column="39" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="6e79" class="javax.swing.JLabel" binding="SearchLabel">
+        <constraints>
+          <grid row="6" column="8" row-span="3" col-span="12" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false" defaultalign-vert="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Cautare Cont"/>
+        </properties>
+      </component>
+      <component id="5c777" class="javax.swing.JTextField" binding="usernameField">
+        <constraints>
+          <grid row="11" column="39" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="eb708" class="javax.swing.JLabel" binding="numeLabel">
+        <constraints>
+          <grid row="6" column="37" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Nume"/>
+        </properties>
+      </component>
+      <component id="e7818" class="javax.swing.JLabel" binding="usernameLabel">
+        <constraints>
+          <grid row="11" column="37" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <text value="Username"/>
+        </properties>
+      </component>
+      <component id="c25f9" class="javax.swing.JPasswordField" binding="parolaField">
+        <constraints>
+          <grid row="16" column="39" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="9" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false" defaultalign-vert="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="1705c" class="javax.swing.JLabel" binding="parolaLabel">
+        <constraints>
+          <grid row="16" column="37" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-vert="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1250068"/>
+          <minimumSize width="10" height="5"/>
+          <requestFocusEnabled value="true"/>
+          <text value="Parola"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="934c0" class="javax.swing.JComboBox" binding="rolAddComboBox">
+        <constraints>
+          <grid row="20" column="39" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Angajat"/>
+            <item value="Admin"/>
+          </model>
+        </properties>
+      </component>
+      <component id="7a0db" class="javax.swing.JLabel" binding="rolLabel">
+        <constraints>
+          <grid row="20" column="38" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <background color="-14063739"/>
+          <foreground color="-1250068"/>
+          <text value="Rol"/>
+        </properties>
+      </component>
+      <component id="d3e1c" class="javax.swing.JButton" binding="addButton">
+        <constraints>
+          <grid row="23" column="39" row-span="4" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <forms defaultalign-horz="false"/>
+        </constraints>
+        <properties>
+          <background color="-13062702"/>
+          <foreground color="-1250068"/>
+          <text value="Add/Edit User"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="buttonGroup1">
+      <member id="20d6b"/>
+      <member id="13c09"/>
+    </group>
+  </buttonGroups>
+</form>
